@@ -24,7 +24,7 @@ A simple game based on the traditional "Snake" using the PyGame library. This is
 - Snake Food (Apples)
 - Snake Growth
 ```
-###Todo
+### Todo
 
 ```
 - Screen borders / boundaries
